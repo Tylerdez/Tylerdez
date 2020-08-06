@@ -8,13 +8,13 @@
         
 ## Delta Epsilon Sigma - Catholic National Scholastic Honor Society
 
-## Current Roles:</h3>
+## Current Roles:
     
 ### Respond as primary point of contact on call for Healthcare IT emergencies
 
 ### Coordinate with Administrators at all levels to resolve critical issues
 
-### Create and maintain domain computer/user accounts</
+### Create and maintain domain computer/user accounts
 
 ### Perform asset network tracking and troubleshooting using SolarWinds Orion
 
