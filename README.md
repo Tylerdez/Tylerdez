@@ -1,23 +1,5 @@
 # Tyler Dezern
 
-# USAF Veteran | Healthcare IT Specialist
+As a “former” boy scout I’ve found I’m in no shape for hiking but I always seem to pursue it anyways.
 
-# B.S. in Computer Information Systems
-
-## Upsilon Pi Epsilon - Honor Society for the Computing and Information Disciplines
-        
-## Delta Epsilon Sigma - Catholic National Scholastic Honor Society
-
-## Current Roles:
-    
-### Respond as primary point of contact on call for Healthcare IT emergencies
-
-### Coordinate with Administrators at all levels to resolve critical issues
-
-### Create and maintain domain computer/user accounts
-
-### Perform asset network tracking and troubleshooting using SolarWinds Orion
-
-### Coordinate network installations with cabling vendors
-
-### Manage updates/software configurations for 6k+ workstations
+![hiking](https://drive.google.com/uc?id=1ta0-n02Ay6BgiMOqXOV3vpVmPl4UvaBO)
